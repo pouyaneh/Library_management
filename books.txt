@@ -1,0 +1,10 @@
+B74001 : Structure and Interpretation of Computer Programs , Harold Abelson  
+B74002 : Clean Code , Robert C. Martin  
+B74003 : Introduction to Algorithms , Thomas H. Cormen  
+B74004 : Code Complete , Steve McConnell  
+B74005 : Design Patterns , Erich Gamma  
+B74006 : The Pragmatic Programmer , Andrew Hunt  
+B74007 : Head First Design Patterns , Eric Freeman  
+B74008 : Refactoring , Martin Fowler  
+B74009 : The Art of Computer Programming , Donald E. Knuth  
+B74010 : The Clean Coder , Robert C. Martin  
